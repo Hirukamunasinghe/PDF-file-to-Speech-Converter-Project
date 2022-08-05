@@ -1,4 +1,4 @@
-#Import Google Text to Speech converter & PDF READER
+#Import Google Text to Speech converter
 from gtts import gTTS
 
 #Importing PDF reader PyPDF2
